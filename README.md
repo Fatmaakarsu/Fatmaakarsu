@@ -5,7 +5,7 @@
 ## Connect with me:
 
 <p align ="left"> 
-    <a href ="www.linkedin.com/in/fatma-akarsu-198262215" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+    <a href ="www.linkedin.com/in/fatmaakarsu01" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
  
  
  
