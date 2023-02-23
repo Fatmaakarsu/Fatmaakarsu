@@ -1,5 +1,5 @@
 ### Hi there, I'm Fatma Akarsu ! 👋
-### I am a computer engineering student.  💻. I am developing myself in Python, Java, Web technologies. You can review my work in these areas and provide feedback.
+### I am a computer engineering student.  💻. I am developing myself in Cyber Security. You can review my work in these areas and provide feedback.
 
 
 ## Connect with me:
