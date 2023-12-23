@@ -20,8 +20,6 @@
 <p align ="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
  <a href ="https://www.java.com" target ="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="40" height="40"/></a>
-<!--  <a href ="https://reactjs.org" target ="_blank"> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/></a> -->
- <a href ="https://www.javascript.com" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/></a>
  <a href ="https://www.mysql.com/" target ="_blank"> <img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="35" height="35"/></a>
  <a href ="https://git-scm.com" target ="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
